@@ -24,9 +24,9 @@ Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV202
 1. JDocQA: 図表を含む日本語文書質問応答データセットによる大規模言語モデルチューニング<br/>
 言語処理学会第30回年次大会, 神戸, 2024.3.11-15.<br/>
 <u>大南英理</u>, 栗田修平, 宮西大樹, 渡辺太郎<br/>
-**Selected as Young Reseacher Award**
-**Selected as Sponsor Award by Money Forward**
-**Selected as Sponsor Award by PKSHA Technology**
+**Selected as Young Reseacher Award**<br/>
+**Selected as Sponsor Award by Money Forward**<br/>
+**Selected as Sponsor Award by PKSHA Technology**<br/>
 
 
 ## <span style='color:  navy;'>Others</span>
