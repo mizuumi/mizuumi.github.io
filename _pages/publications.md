@@ -19,22 +19,26 @@ In Proceedings of the 2024 Joint International Conference on Computational Lingu
 Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV2023), pages 15214-15224, 2023.
 [\[arXiv\]](https://arxiv.org/abs/2308.12035) [\[code\]](https://github.com/shuheikurita/RefEgo)
 
+1. Shuhei Kurita, Naoki Katsura and <u>Eri Onami</u>,
+"RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D,"
+ICCV-23 workshop on Language for 3D scenes, 2023. (Invited)
+
 
 ## Local Conference
 1. JDocQA: 図表を含む日本語文書質問応答データセットによる大規模言語モデルチューニング<br/>
 言語処理学会第30回年次大会, 神戸, 2024.3.11-15.<br/>
 <u>大南英理</u>, 栗田修平, 宮西大樹, 渡辺太郎<br/>
-**Selected as Young Reseacher Award**<br/>
-**Selected as Sponsor Award by Money Forward**<br/>
-**Selected as Sponsor Award by PKSHA Technology**<br/>
+Selected as **Young Reseacher Award**<br/>
+Selected as **Sponsor Award by Money Forward**<br/>
+Selected as **Sponsor Award by PKSHA Technology**<br/>
 
 
 ## <span style='color:  navy;'>Others</span>
 
 ### Awards and Grants
 1. Young Researcher Award from the Association for Natural Language Processing, 2024.3.14
-1. Sponsor Award by Money Forward
-1. Sponsor Award by PKSHA Technology
+1. Sponsor Award by Money Forward, 2024.3.14
+1. Sponsor Award by PKSHA Technology, 2024.3.14
 1. ICCV 2023 DEI Travel Award
 
 ### Misc
@@ -42,9 +46,17 @@ Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV202
 1. 2nd Place in Jessup Moot Court Competition National 2014
 1. 1st Place in Japan Cup Moot Court Competition 2014
 
+### Experience
+* 2020/04 - present 
+  * Software Engineer, ???, IT & Consulting Company
+* 2019/12, 1 week
+  * Internship, Mitsubishi Research Institute
+* 2019/07 - 2019/08, 2 weeks
+  * Summer Internship, Ministry of Foreign Affairs of Japan
+
 ### Education
 * 2023/04 - present
-  * Master course, Nara Institute of Science and Technology
+  * Master course, Nara Institute of Science and Technology.
 * 2018/04 – 2020/03
   * Master of Public Administration, Kyoto University.
 * 2014/04 – 2018/03
