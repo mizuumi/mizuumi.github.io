@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-## <span style='color:  navy;'>Publications</span>
 
 ## Conference Papers
 1. <u>Eri Onami</u>, Shuhei Kurita, Taiki Miyanishi, and Taro Watanabe,
@@ -43,8 +42,8 @@ Selected as **Sponsor Award by PKSHA Technology**<br/>
 
 ### Misc
 1. 3rd Place in Memorial, Asia Cup Moot Court Competition 2015
-1. 2nd Place in Jessup Moot Court Competition National 2014
-1. 1st Place in Japan Cup Moot Court Competition 2014
+1. 2nd Place, Jessup Moot Court Competition National 2014
+1. 1st Place, Japan Cup Moot Court Competition 2014
 
 ### Experience
 * 2020/04 - present 
