@@ -35,7 +35,7 @@ Selected as **Sponsor Award by PKSHA Technology**<br/>
 ## <span style='color:  navy;'>Others</span>
 
 ### Awards and Grants
-1. Young Researcher Award from the Association for Natural Language Processing, 2024.3.14
+1. Young Researcher Award, The Association for Natural Language Processing, 2024.3.14
 1. Sponsor Award by Money Forward, 2024.3.14
 1. Sponsor Award by PKSHA Technology, 2024.3.14
 1. ICCV 2023 DEI Travel Award, 2023
