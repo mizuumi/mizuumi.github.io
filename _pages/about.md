@@ -9,4 +9,5 @@ redirect_from:
 
 Eri Onami is a 2nd year master student at Nara Institute of Science and Technology.
 
-Research interests: Natural Language Processing, Vision and Language, Legal NLP
+Research interests: 
+Natural Language Processing, Vision and Language, Legal NLP

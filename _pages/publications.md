@@ -24,10 +24,10 @@ Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV202
 ICCV-23 workshop on Language for 3D scenes, 2023. (Invited)
 
 
-## Local Conference
+## Local Conferences
 1. JDocQA: 図表を含む日本語文書質問応答データセットによる大規模言語モデルチューニング<br/>
-言語処理学会第30回年次大会, 神戸, 2024.3.11-15.<br/>
-<u>大南英理</u>, 栗田修平, 宮西大樹, 渡辺太郎<br/>
+The 30th Annual Meeting of the Association for Natural Language Processing (NLP2024), Kobe, 2024.3.11-15.<br/>
+<u>Eri Onami</u>, Shuhei Kurita, Taiki Miyanishi, Taro Watanabe<br/>
 Selected as **Young Reseacher Award**<br/>
 Selected as **Sponsor Award by Money Forward**<br/>
 Selected as **Sponsor Award by PKSHA Technology**<br/>
@@ -39,7 +39,7 @@ Selected as **Sponsor Award by PKSHA Technology**<br/>
 1. Young Researcher Award from the Association for Natural Language Processing, 2024.3.14
 1. Sponsor Award by Money Forward, 2024.3.14
 1. Sponsor Award by PKSHA Technology, 2024.3.14
-1. ICCV 2023 DEI Travel Award
+1. ICCV 2023 DEI Travel Award, 2023
 
 ### Misc
 1. 3rd Place in Memorial, Asia Cup Moot Court Competition 2015
@@ -49,9 +49,9 @@ Selected as **Sponsor Award by PKSHA Technology**<br/>
 ### Experience
 * 2020/04 - present 
   * Software Engineer, ???, IT & Consulting Company
-* 2019/12, 1 week
+* 2019/12
   * Internship, Mitsubishi Research Institute
-* 2019/07 - 2019/08, 2 weeks
+* 2019/07 - 2019/08
   * Summer Internship, Ministry of Foreign Affairs of Japan
 
 ### Education
