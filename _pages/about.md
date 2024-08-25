@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Eri Onami is a 2nd year master student at [\[Nara Institute of Science and Technology\]](https://www.naist.jp/en/)
+Eri Onami is a 2nd year master student at \[Nara Institute of Science and Technology\](https://www.naist.jp/en/).
 
 
 Research interests:
