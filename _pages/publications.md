@@ -20,7 +20,7 @@ Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV202
 
 1. Shuhei Kurita, Naoki Katsura and <u>Eri Onami</u>,
 "RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D,"
-ICCV-23 workshop on Language for 3D scenes, 2023. (Invited)
+ICCV-23 workshop on Language for 3D scenes, 2023. 
 
 
 ## Local Conferences
