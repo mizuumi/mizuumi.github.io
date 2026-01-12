@@ -19,10 +19,6 @@ author_profile: true
 
 
 ## Domestic Conference
-* 法律推論データセット学習による推論に強いモデルの構築 <br/>
-The 32nd Annual Meeting of the Association for Natural Language Processing (NLP2026), Utsunomiya, 2026.3.9-13.<br/>
-<u>Eri Onami</u>, Naoaki Okazaki<br/>
-
 * 多言語での判例事実概要からの法的関係性のグラフ可視化 [\[paper\]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/B7-4.pdf)<br/>
 The 31st Annual Meeting of the Association for Natural Language Processing (NLP2025), Nagasaki, 2025.3.10-14.<br/>
 <u>Eri Onami</u>, Taiki Miyanishi, Koki Maeda, Shuhei Kurita<br/>
