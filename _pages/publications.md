@@ -19,7 +19,11 @@ author_profile: true
 
 
 ## Domestic Conferences
-* 法律推論データセット学習による推論に強いモデルの構築<br/>
+* 大規模言語モデルによる法律実務実施のための文書要約システム構築及び出力の調査<br/>
+The 40th Annual Conference of the Japanese Society for Artificial Intelligence(JSAI2026), Gunma, 2026.6.8-12.<br/>
+Yuki Morita, <u>Eri Onami</u>, Youmi Ma, Yukiko Honda, Naoaki Okazaki
+
+* 法律推論データセット学習による推論に強いモデルの構築 [\[paper\]](https://anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q6-15.pdf) <br/>
 The 32nd Annual Meeting of the Association for Natural Language Processing (NLP2026), Utsunomiya, 2026.3.9-13.<br/>
 <u>Eri Onami</u>, Naoaki Okazaki<br/>
 
@@ -54,6 +58,6 @@ Selected as **Sponsor Award by PKSHA Technology**<br/>
 
 
 ### Other Awards
-* 2015.8, 3rd place in Memorial, [Asia Cup International Law Moot Court Competition](https://asiacup.sakura.ne.jp/).
+* 2015.8, 2nd place in Memorial, [Asia Cup International Law Moot Court Competition](https://asiacup.sakura.ne.jp/).
 * 2014.12, 2nd place, [Jessup International Law Moot Court Competition](https://www.ilsa.org/jessup-2025/), National.
 * 2014.7, 1st place, [Japan Cup International Law Moot Court Competition](https://ilsec2021.wixsite.com/ilsec).
