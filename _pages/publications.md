@@ -17,6 +17,8 @@ author_profile: true
 
 * Shuhei Kurita, Naoki Katsura, <u>Eri Onami</u>, RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D, ICCV-23 Workshop on Language for 3D Scenes.
 
+## Preprints
+* <u>Eri Onami</u>, Youmi Ma, Shuhei Kurita, Naoaki Okazaki, Neuron Level Analysis of Large Language Model in Legal Domain Reasoning. [\[arXiv\]](https://arxiv.org/abs/2606.15884)
 
 ## Domestic Conferences
 * 大規模言語モデルによる法律実務実施のための文書要約システム構築及び出力の調査<br/>
